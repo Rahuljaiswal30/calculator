@@ -1,0 +1,52 @@
+.title{
+border-radius: 5px;
+font-weight: 900;
+font-size: medium;
+margin : 8px auto;
+text-align:center;
+width: 24.5%;
+padding: 10px 10px;
+color: rgb(240, 9, 9);
+border: solid red 5px;
+}
+
+ input[type="button"]
+{
+width: 100%;
+font-size: large;
+padding: 10px 30px;
+box-sizing: border-box;
+color: blue;
+background-color:rgba(00, 00, 00, 0.1);
+border-radius: 4px;
+}
+
+input[type="text"]
+{
+text-align: right;
+font-size: large;
+width: 97%;
+height: 2rem;
+margin: 0 1px;
+border: 2px solid red;
+border-radius: 5px;
+}
+
+#calculator{
+    border: 5px solid red;
+    width: 26%;
+    margin: 0 auto;
+    border-radius: 5px;
+}
+
+.title{
+    margin: 5px auto;
+}
+
+.content{
+    margin: 0 auto;
+}
+
+.initial{
+    margin: 10rem auto;
+}
